@@ -32,6 +32,6 @@ java client.KeyValueClient
 
 ## Example Commands
 
-SET name Ayush
+SET name Harshita
 GET name
 DELETE name
